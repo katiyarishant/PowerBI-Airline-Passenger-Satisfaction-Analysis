@@ -30,7 +30,7 @@ This dashboard answers these questions using data-driven insights.
 
 ## Dataset
 
-[Airbnb Dataset](https://mavenanalytics.io/data-playground/airline-passenger-satisfaction)
+[Airline Dataset](https://mavenanalytics.io/data-playground/airline-passenger-satisfaction)
 
 ### Dataset Details
 - Total Records: **129,000+**  
